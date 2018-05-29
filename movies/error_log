@@ -1,0 +1,294 @@
+[17-Apr-2018 10:38:33 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/application/views/home.php on line 18
+[18-Apr-2018 07:47:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/sid11990/public_html/movies/application/controllers/User.php on line 26
+[18-Apr-2018 07:47:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/sid11990/public_html/movies/application/controllers/User.php on line 26
+[18-Apr-2018 11:25:02 UTC] PHP Fatal error:  Call to undefined function validation_errors() in /home/sid11990/public_html/movies/application/views/home.php on line 753
+[18-Apr-2018 12:12:34 UTC] PHP Fatal error:  Call to a member function update() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 32
+[18-Apr-2018 16:09:39 UTC] PHP Fatal error:  Call to a member function createUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 29
+[18-Apr-2018 16:12:09 UTC] PHP Fatal error:  Call to a member function createUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 29
+[18-Apr-2018 16:41:48 UTC] PHP Fatal error:  Call to a member function createUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 30
+[18-Apr-2018 16:49:16 UTC] PHP Fatal error:  Call to undefined method CI_Input::md5() in /home/sid11990/public_html/movies/application/controllers/User.php on line 27
+[18-Apr-2018 17:42:33 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 31
+[19-Apr-2018 07:09:35 UTC] PHP Fatal error:  Call to undefined function append() in /home/sid11990/public_html/movies/application/controllers/User.php on line 80
+[19-Apr-2018 07:10:22 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/models/User_model.php on line 52
+[19-Apr-2018 07:11:24 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/models/User_model.php on line 52
+[19-Apr-2018 08:20:06 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/sid11990/public_html/movies/application/controllers/User.php on line 141
+[19-Apr-2018 08:20:10 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/sid11990/public_html/movies/application/controllers/User.php on line 141
+[19-Apr-2018 09:49:20 UTC] PHP Notice:  Undefined index: username in /home/sid11990/public_html/movies/activate.php on line 2
+[19-Apr-2018 09:49:20 UTC] PHP Notice:  Undefined index: regid in /home/sid11990/public_html/movies/activate.php on line 3
+[19-Apr-2018 09:49:20 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/activate.php on line 5
+[19-Apr-2018 09:49:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/activate.php on line 5
+[19-Apr-2018 09:50:32 UTC] PHP Fatal error:  Call to a member function verify() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 100
+[19-Apr-2018 09:51:38 UTC] PHP Fatal error:  Call to a member function verify() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 101
+[19-Apr-2018 10:11:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sid11990/public_html/movies/application/views/success.php on line 2
+[20-Apr-2018 10:46:10 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 34
+[20-Apr-2018 10:47:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 34
+[20-Apr-2018 10:48:50 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 34
+[20-Apr-2018 11:24:43 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 34
+[23-Apr-2018 06:10:22 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 34
+[23-Apr-2018 06:25:27 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 34
+[23-Apr-2018 07:19:36 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 17
+[23-Apr-2018 07:27:20 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sid11990/public_html/movies/verify.php on line 14
+[23-Apr-2018 09:22:28 UTC] PHP Fatal error:  Cannot redeclare User::userRegistration() in /home/sid11990/public_html/movies/application/controllers/User.php on line 101
+[23-Apr-2018 11:59:10 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 36
+[23-Apr-2018 12:02:41 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 35
+[24-Apr-2018 06:22:47 UTC] PHP Fatal error:  Call to undefined function ms5() in /home/sid11990/public_html/movies/application/models/User_model.php on line 14
+[24-Apr-2018 10:45:23 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 61
+[24-Apr-2018 10:47:21 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 61
+[24-Apr-2018 10:50:00 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 61
+[24-Apr-2018 10:53:10 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 61
+[24-Apr-2018 10:53:15 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 61
+[24-Apr-2018 10:53:51 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 61
+[25-Apr-2018 11:16:55 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[25-Apr-2018 11:44:12 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[25-Apr-2018 11:49:18 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[25-Apr-2018 11:49:47 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[25-Apr-2018 11:49:51 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[25-Apr-2018 11:50:23 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[25-Apr-2018 11:52:29 UTC] PHP Fatal error:  Call to a member function resetpassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 18
+[26-Apr-2018 06:21:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sid11990/public_html/movies/application/controllers/User.php on line 123
+[26-Apr-2018 06:21:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sid11990/public_html/movies/application/controllers/User.php on line 123
+[26-Apr-2018 06:22:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sid11990/public_html/movies/application/controllers/User.php on line 123
+[26-Apr-2018 06:22:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sid11990/public_html/movies/application/controllers/User.php on line 123
+[26-Apr-2018 06:23:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sid11990/public_html/movies/application/controllers/User.php on line 123
+[26-Apr-2018 12:43:36 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 12:45:44 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 16:03:32 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 16:19:02 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 16:58:18 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 17:12:35 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 17:15:54 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 21
+[26-Apr-2018 17:16:31 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 34
+[26-Apr-2018 17:17:44 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 34
+[26-Apr-2018 17:25:52 UTC] PHP Fatal error:  require(): Failed opening required '/public_html/Training/libraries/cegcore/vendors/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 34
+[26-Apr-2018 17:31:07 UTC] PHP Fatal error:  require(): Failed opening required '/movies/application/libraries/vendors/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 34
+[26-Apr-2018 17:35:40 UTC] PHP Fatal error:  require(): Failed opening required 'class.phpmailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 35
+[26-Apr-2018 17:46:49 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 81
+[26-Apr-2018 17:48:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/sid11990/public_html/movies/application/libraries/vendors/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/sid11990/public_html/movies/application/models/Forgotpassword_model.php on line 34
+[26-Apr-2018 18:36:53 UTC] PHP Fatal error:  Call to a member function updatePassword() on null in /home/sid11990/public_html/movies/application/controllers/Forgotpassword.php on line 37
+[01-May-2018 17:21:25 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 17:21:25 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 17:22:16 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 17:22:16 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 17:24:48 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 17:24:48 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 17:28:43 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/sid11990/public_html/movies/application/views/log.php on line 156
+[01-May-2018 17:28:43 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/sid11990/public_html/movies/application/views/log.php on line 156
+[01-May-2018 17:40:45 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/sid11990/public_html/movies/application/controllers/User.php on line 45
+[01-May-2018 17:43:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sid11990/public_html/movies/application/controllers/User.php on line 48
+[01-May-2018 17:46:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sid11990/public_html/movies/application/controllers/User.php on line 48
+[01-May-2018 17:48:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sid11990/public_html/movies/application/controllers/User.php on line 48
+[01-May-2018 17:52:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sid11990/public_html/movies/application/controllers/User.php on line 49
+[01-May-2018 18:04:33 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:04:33 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:10:13 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:10:13 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:13:12 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:13:12 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:17:46 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:17:46 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:19:47 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:19:47 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:20:22 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:20:22 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:22:27 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:22:27 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:22:36 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:22:36 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:24:41 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:24:41 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 18:32:03 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:32:03 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 18:33:46 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 8
+[01-May-2018 18:33:46 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 29
+[01-May-2018 18:41:33 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 18:41:33 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 9
+[01-May-2018 18:41:33 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 30
+[01-May-2018 19:20:02 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 19:20:02 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 9
+[01-May-2018 19:20:02 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 30
+[01-May-2018 19:21:26 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 19:21:26 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 9
+[01-May-2018 19:21:26 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 30
+[01-May-2018 19:22:18 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 19:22:18 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 9
+[01-May-2018 19:22:18 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 30
+[01-May-2018 19:31:07 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:31:07 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 19:31:07 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 41
+[01-May-2018 19:31:54 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 19
+[01-May-2018 19:31:54 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 23
+[01-May-2018 19:31:54 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 44
+[01-May-2018 19:32:28 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 19
+[01-May-2018 19:32:28 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 23
+[01-May-2018 19:32:28 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 44
+[01-May-2018 19:32:52 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 19
+[01-May-2018 19:32:52 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 23
+[01-May-2018 19:32:52 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 44
+[01-May-2018 19:34:03 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 19
+[01-May-2018 19:34:03 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 23
+[01-May-2018 19:34:03 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 44
+[01-May-2018 19:35:06 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:35:06 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 19:35:06 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 41
+[01-May-2018 19:35:44 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:35:44 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 19:35:44 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 41
+[01-May-2018 19:36:54 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 19
+[01-May-2018 19:36:54 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 23
+[01-May-2018 19:36:54 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 44
+[01-May-2018 19:38:51 UTC] PHP Notice:  Undefined index: newfile in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 3
+[01-May-2018 19:38:51 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 10
+[01-May-2018 19:38:51 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 14
+[01-May-2018 19:38:51 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 35
+[01-May-2018 19:39:26 UTC] PHP Notice:  Undefined index: newfile in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 3
+[01-May-2018 19:39:26 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 11
+[01-May-2018 19:39:26 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 15
+[01-May-2018 19:39:26 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 36
+[01-May-2018 19:40:01 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 3
+[01-May-2018 19:40:01 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 11
+[01-May-2018 19:40:01 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 15
+[01-May-2018 19:40:01 UTC] PHP Notice:  Undefined variable: targetPath in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 36
+[01-May-2018 19:42:05 UTC] PHP Warning:  move_uploaded_file(http://movies.siddhrans.com/assets/img/jobseekerProfileImg/Meghana.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 24
+[01-May-2018 19:42:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfmNN6k' to 'http://movies.siddhrans.com/assets/img/jobseekerProfileImg/Meghana.jpg' in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 24
+[01-May-2018 19:45:12 UTC] PHP Warning:  move_uploaded_file(jobseekerProfileImg/Meghana.jpg): failed to open stream: No such file or directory in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:45:12 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeaaULn' to 'jobseekerProfileImg/Meghana.jpg' in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:49:33 UTC] PHP Warning:  move_uploaded_file(jobseekerProfileImg/Meghana.jpg): failed to open stream: No such file or directory in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:49:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpN9J68L' to 'jobseekerProfileImg/Meghana.jpg' in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:49:59 UTC] PHP Warning:  move_uploaded_file(jobseekerProfileImg/_67CDF397987ECD8D234CFB.exe): failed to open stream: No such file or directory in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:49:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVNzX8s' to 'jobseekerProfileImg/_67CDF397987ECD8D234CFB.exe' in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:50:59 UTC] PHP Warning:  move_uploaded_file(jobseekerProfileImg/Meghana.jpg): failed to open stream: No such file or directory in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:50:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpp0FegY' to 'jobseekerProfileImg/Meghana.jpg' in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 19:52:13 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:52:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:52:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:52:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:52:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:52:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:53:05 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:53:05 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:53:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:54:07 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:54:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:54:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 19:57:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:57:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 19:57:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:00:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 20:00:26 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 20:00:26 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 17
+[01-May-2018 20:01:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 20:01:50 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:01:50 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:02:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 20:02:23 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:02:23 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:04:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 20:04:24 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:04:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:18:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 20:18:04 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:18:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:21:35 UTC] PHP Notice:  Undefined index: profileid in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 16
+[01-May-2018 20:21:35 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:21:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:23:04 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:23:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:23:59 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:23:59 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:26:56 UTC] PHP Notice:  Undefined variable: dbLink in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:26:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:28:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:31:14 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:34:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 14
+[01-May-2018 20:36:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:36:41 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:36:41 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:36:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:40:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 20
+[01-May-2018 20:40:36 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:41:08 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:42:59 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:46:21 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:47:05 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:49:22 UTC] PHP Notice:  Undefined variable: uid in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:49:22 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 22
+[01-May-2018 20:50:07 UTC] PHP Notice:  Undefined variable: uid in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:50:07 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 22
+[01-May-2018 20:52:00 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 20:59:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:01:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:02:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:03:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:06:08 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:10:47 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 34
+[01-May-2018 21:10:49 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 5
+[01-May-2018 21:10:49 UTC] PHP Notice:  Undefined index: userImage in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 7
+[01-May-2018 21:10:49 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 34
+[01-May-2018 21:11:58 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 34
+[01-May-2018 21:35:51 UTC] PHP Fatal error:  Class 'SaveImage' not found in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:39:49 UTC] PHP Fatal error:  Using $this when not in object context in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[01-May-2018 21:42:45 UTC] PHP Fatal error:  Call to undefined function get_instance() in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[02-May-2018 04:47:43 UTC] PHP Fatal error:  Call to undefined function get_instance() in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[02-May-2018 05:34:12 UTC] PHP Fatal error:  Call to undefined function get_instance() in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[02-May-2018 07:37:34 UTC] PHP Fatal error:  Call to undefined function get_instance() in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[02-May-2018 09:06:06 UTC] PHP Fatal error:  Call to undefined function get_instance() in /home/sid11990/public_html/movies/jobseekerProfileImages.php on line 21
+[02-May-2018 09:54:23 UTC] PHP Fatal error:  Cannot redeclare Jobseekerprofile::profileImg() in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 46
+[02-May-2018 12:09:10 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[02-May-2018 12:11:35 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[05-May-2018 06:13:10 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[05-May-2018 09:24:49 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[08-May-2018 05:29:05 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[08-May-2018 05:48:10 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[08-May-2018 05:59:26 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[08-May-2018 06:00:22 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 65
+[08-May-2018 06:07:00 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 63
+[08-May-2018 06:07:24 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 63
+[08-May-2018 06:07:55 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 63
+[08-May-2018 06:09:53 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 63
+[08-May-2018 06:23:20 UTC] PHP Fatal error:  Call to undefined method Userprofilemodel::jobSeekerProfileImgSave() in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 64
+[08-May-2018 06:29:27 UTC] PHP Fatal error:  Call to a member function jobSeekerProfileImgSave() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 64
+[08-May-2018 07:51:53 UTC] PHP Fatal error:  Call to a member function store_pic_data() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 92
+[08-May-2018 07:55:47 UTC] PHP Fatal error:  Call to a member function store_pic_data() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 92
+[18-May-2018 06:58:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1122
+[18-May-2018 07:00:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:05:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:05:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:20:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:30:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:30:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:35:04 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 225
+[18-May-2018 07:37:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:43:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:43:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 07:49:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 1123
+[18-May-2018 09:40:39 UTC] PHP Fatal error:  Call to a member function get_all_pics() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 14
+[18-May-2018 10:12:43 UTC] PHP Fatal error:  Call to a member function get_all_pics() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 48
+[23-May-2018 06:44:10 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 50
+[23-May-2018 07:26:45 UTC] PHP Fatal error:  Call to undefined function lang() in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 923
+[24-May-2018 09:10:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:17:22 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:25:56 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:26:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:28:14 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:29:19 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:29:32 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:30:30 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:31:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:37:24 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 09:52:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 10:57:34 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 11:09:18 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 11:11:55 UTC] PHP Fatal error:  Call to a member function result() on null in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[24-May-2018 11:18:05 UTC] PHP Fatal error:  Call to a member function result() on null in /home/sid11990/public_html/movies/application/models/JobseekerprofileModels.php on line 29
+[25-May-2018 19:02:19 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sid11990/public_html/movies/application/views/candidate-profile.php on line 946
+[25-May-2018 19:50:59 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 86
+[25-May-2018 19:52:34 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 86
+[25-May-2018 19:53:07 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 86
+[25-May-2018 19:53:36 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 86
+[25-May-2018 19:55:13 UTC] PHP Fatal error:  Call to a member function num_rows() on null in /home/sid11990/public_html/movies/application/controllers/Jobseekerprofile.php on line 86
+[28-May-2018 07:43:56 UTC] PHP Fatal error:  Call to a member function loggingUser() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 42
+[28-May-2018 17:28:45 UTC] PHP Fatal error:  Call to a member function row() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 146
+[28-May-2018 17:29:28 UTC] PHP Fatal error:  Call to a member function row() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 146
+[28-May-2018 17:31:39 UTC] PHP Fatal error:  Call to a member function row() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 143
+[28-May-2018 17:52:24 UTC] PHP Fatal error:  Call to a member function mail() on null in /home/sid11990/public_html/movies/application/controllers/User.php on line 56
